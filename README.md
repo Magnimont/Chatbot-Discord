@@ -32,10 +32,7 @@ python main.py
 
 ## Tutorial
 
-```sh
 https://www.youtube.com/watch?v=52GWty1vFMI&t=88s
-```
-
 
 ## Authors
 
